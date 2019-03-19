@@ -7,7 +7,6 @@ setup(
     license='MIT',
     description='EDSA Project',
     long_description=open('README.md').read(),
-    install_requires=['numpy'],
     url='https://github.com/Keshc108/EDSA1',
     author='Keshav Chetty',
     author_email='keshc108@gmail.com'

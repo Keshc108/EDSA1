@@ -6,5 +6,4 @@ EDSA1/sorting.py
 EDSA1.egg-info/PKG-INFO
 EDSA1.egg-info/SOURCES.txt
 EDSA1.egg-info/dependency_links.txt
-EDSA1.egg-info/requires.txt
 EDSA1.egg-info/top_level.txt
